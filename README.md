@@ -6,7 +6,7 @@
 ## Solution Overview
 * The solution was to build a basic but thorough onboarding pipeline in Active Directory. I built OUS, security groups and made sure to properly assign users to each. I set up the RBAC matrix and ensured users were given access ONLY according to their role. I also simulated a mock ticket where a user was provisioned the incorrect level of access! 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+https://www.loom.com/share/06a93ce806914d1d83ca4284c7cb9247 
 
 ## Tools Used
 * Windows Server
